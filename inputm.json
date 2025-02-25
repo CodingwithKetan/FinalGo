@@ -1,0 +1,14 @@
+{
+    "type": "metrics",
+    "metrics": {
+        "ipranges": ["10.20.40.233"],
+        "credentials": [
+            {
+                "id": "cred1",
+                "username": "ketan",
+                "password": "Mind@123"
+            }
+        ],
+        "port": 22
+    }
+}
